@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Gazi Faizul Islam</h1>
+=======
 <h1 align="center">Hi 👋, I'm Gazi Faizul Islam</h1>
+>>>>>>> d095cb12225132c3abb588b040ac94f7ffad7ae9
 
 ###
 
@@ -27,6 +31,17 @@
 
 <div align="left">
   <img align="right" height="200" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
+<<<<<<< HEAD
+  <p><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> Results-driven Front-end Developer with 2+ years of demonstrated excellence in creating sophisticated web applications. Core competencies include:</p>
+  <ul>
+    <li><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="20px"> Architecting scalable and maintainable React.js solutions</li>
+    <li><img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="20px"> Implementing pixel-perfect, responsive designs with modern best practices</li>
+    <li><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20px"> Delivering exceptional UI/UX experiences through innovative approaches</li>
+    <li><img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="20px"> Translating complex design requirements from Figma, Adobe XD, and PSD into functional code</li>
+    <li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20px"> Optimizing application performance and implementing SEO strategies</li>
+  </ul>
+  <p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> Currently pursuing B.Sc. in Computer Science & Engineering at IUBAT with focus on Advanced Algorithms & Artificial Intelligence | Evolving Full Stack Developer</p>
+=======
   <p>🚀 Results-driven Front-end Developer with 2+ years of demonstrated excellence in creating sophisticated web applications. Core competencies include:</p>
   <ul>
     <li>Architecting scalable and maintainable React.js solutions</li>
@@ -36,6 +51,7 @@
     <li>Optimizing application performance and implementing SEO strategies</li>
   </ul>
   <p>🎓 Currently pursuing B.Sc. in Computer Science & Engineering at IUBAT with focus on Advanced Algorithms & Artificial Intelligence | Evolving Full Stack Developer</p>
+>>>>>>> d095cb12225132c3abb588b040ac94f7ffad7ae9
 </div>
 
 ###
