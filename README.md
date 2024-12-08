@@ -3,21 +3,10 @@
 ###
 
 <div align="center">
-  <b style="display: inline-block; animation: fadeInDown 1s ease-in-out;">Senior Front-End Developer | React.js Specialist | UI/UX Architect</b>
+  <b>🚀 Senior Front-End Developer | ⚛️ React.js Specialist | 🎨 UI/UX Architect</b>
+  <br/>
+  <i>Crafting exceptional digital experiences with code and creativity</i>
 </div>
-
-<style>
-@keyframes fadeInDown {
-  0% {
-    opacity: 0;
-    transform: translateY(-20px);
-  }
-  100% {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-</style>
 
 ###
 
