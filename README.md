@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Gazi Faizul Islam</h1>
+<h1 align="center">Hi 👋, I'm Gazi Faizul Islam</h1>
 
 ###
 
 <div align="center">
-  <b>Front-End Developer | React.js Specialist</b>
+  <b>Senior Front-End Developer | React.js Expert | UI/UX Enthusiast</b>
 </div>
 
 ###
@@ -23,42 +23,51 @@
   </a>
 </div>
 
-
 ###
 
 <div align="left">
   <img align="right" height="200" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
-  <p>🚀 Front-end developer with 2+ years of expertise in creating responsive, pixel-perfect web interfaces using React.js and modern CSS frameworks. Skilled in transforming designs from Figma, PSD, and XD into seamless user experiences.</p>
-  <p>🎓 Currently pursuing B.Sc. in Computer Science & Engineering at IUBAT, with a focus on algorithms and AI technologies. Actively working towards becoming a Full Stack Developer.</p>
+  <p>🚀 Passionate Front-end developer with 2+ years of proven expertise in crafting exceptional web experiences. Specialized in:</p>
+  <ul>
+    <li>Building scalable React.js applications</li>
+    <li>Creating pixel-perfect, responsive interfaces</li>
+    <li>Implementing modern UI/UX best practices</li>
+    <li>Converting designs from Figma, PSD, and XD with precision</li>
+  </ul>
+  <p>🎓 Pursuing B.Sc. in Computer Science & Engineering at IUBAT | Focusing on Advanced Algorithms & AI | Aspiring Full Stack Developer</p>
 </div>
 
 ###
 
-<h3 align="left">💻 Technical Skills</h3>
+<h3 align="left">💻 Technical Expertise</h3>
 
 ###
 
 <details>
-<summary>Frontend Development</summary>
-- React.js, JavaScript (ES6+)
-- HTML5, CSS3
-- Bootstrap, Tailwind CSS
-- Responsive Design
-- UI/UX Implementation
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+• React.js - Component lifecycle, Hooks, Context API, Redux<br>
+• JavaScript - ES6+, Async/Await, DOM manipulation<br>
+• Modern CSS - Flexbox, Grid, Animations<br>
+• Frameworks - Bootstrap, Tailwind CSS, Material-UI<br>
+• Responsive Design & Cross-browser compatibility<br>
+• Performance optimization & SEO best practices
 </details>
 
 <details>
-<summary>Development Tools</summary>
-- Git & GitHub
-- VS Code
-- Firebase
-- RESTful APIs
-- Figma
+<summary><b>🛠️ Development Tools & Skills</b></summary>
+<br>
+• Version Control - Git, GitHub<br>
+• IDE - VS Code with productivity extensions<br>
+• Backend Integration - Firebase, RESTful APIs<br>
+• Design Tools - Figma, Adobe XD<br>
+• Testing - Jest, React Testing Library<br>
+• CI/CD - Basic deployment workflows
 </details>
 
 ###
 
-<h3 align="left">🛠️ Tech Stack</h3>
+<h3 align="left">🚀 Tech Stack</h3>
 
 ###
 
@@ -78,22 +87,22 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizul-gazi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizul-gazi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
 </div>
 
 ###
 
-###
-
 <div align="center">
+  <b>✨ Visitors Count ✨</b>
+  <br><br>
   <img src="https://profile-counter.glitch.me/faizul-gazi/count.svg?" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizul-gazi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizul-gazi&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faizul-gazi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizul-gazi&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 
 ###
