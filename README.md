@@ -105,23 +105,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizul-gazi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizul-gazi&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
-</div>
-
-###
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faizul-gazi/faizul-gazi/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faizul-gazi/faizul-gazi/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/faizul-gazi/faizul-gazi/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-###
-###
 
 <div align="center">
   <img src="https://github.com/faizul-gazi/faizul-gazi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
