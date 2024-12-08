@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <b>🚀 Senior Front-End Developer | ⚛️ React.js Specialist | 🎨 UI/UX Architect</b>
+  <b>Front-End Developer | ⚛️ React.js Specialist | 🎨 UI/UX Architect</b>
   <br/>
   <i>Crafting exceptional digital experiences with code and creativity</i>
 </div>
@@ -103,6 +103,14 @@
   <b>👥 Profile Visitors</b>
   <br><br>
   <img src="https://profile-counter.glitch.me/faizul-gazi/count.svg?" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faizul-gazi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizul-gazi&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ###
