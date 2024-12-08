@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <b>Senior Front-End Developer | React.js Expert | UI/UX Enthusiast</b>
+  <b>Senior Front-End Developer | React.js Specialist | UI/UX Architect</b>
 </div>
 
 ###
@@ -27,53 +27,57 @@
 
 <div align="left">
   <img align="right" height="200" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
-  <p>🚀 Passionate Front-end developer with 2+ years of proven expertise in crafting exceptional web experiences. Specialized in:</p>
+  <p>🚀 Results-driven Front-end Developer with 2+ years of demonstrated excellence in creating sophisticated web applications. Core competencies include:</p>
   <ul>
-    <li>Building scalable React.js applications</li>
-    <li>Creating pixel-perfect, responsive interfaces</li>
-    <li>Implementing modern UI/UX best practices</li>
-    <li>Converting designs from Figma, PSD, and XD with precision</li>
+    <li>Architecting scalable and maintainable React.js solutions</li>
+    <li>Implementing pixel-perfect, responsive designs with modern best practices</li>
+    <li>Delivering exceptional UI/UX experiences through innovative approaches</li>
+    <li>Translating complex design requirements from Figma, Adobe XD, and PSD into functional code</li>
+    <li>Optimizing application performance and implementing SEO strategies</li>
   </ul>
-  <p>🎓 Pursuing B.Sc. in Computer Science & Engineering at IUBAT | Focusing on Advanced Algorithms & AI | Aspiring Full Stack Developer</p>
+  <p>🎓 Currently pursuing B.Sc. in Computer Science & Engineering at IUBAT with focus on Advanced Algorithms & Artificial Intelligence | Evolving Full Stack Developer</p>
 </div>
 
 ###
 
-<h3 align="left">💻 Technical Expertise</h3>
+<h3 align="left">💻 Technical Proficiency</h3>
 
 ###
 
 <details>
-<summary><b>🎨 Frontend Development</b></summary>
+<summary><b>🎨 Frontend Development Expertise</b></summary>
 <br>
-• React.js - Component lifecycle, Hooks, Context API, Redux<br>
-• JavaScript - ES6+, Async/Await, DOM manipulation<br>
-• Modern CSS - Flexbox, Grid, Animations<br>
-• Frameworks - Bootstrap, Tailwind CSS, Material-UI<br>
-• Responsive Design & Cross-browser compatibility<br>
-• Performance optimization & SEO best practices
+• React.js - Advanced component architecture, Custom Hooks, Context API, Redux/Redux Toolkit<br>
+• JavaScript - ES6+, TypeScript, Async Programming, DOM manipulation<br>
+• Modern CSS - Flexbox, Grid, Sass/SCSS, CSS-in-JS, Animations<br>
+• UI Frameworks - Bootstrap 5, Tailwind CSS, Material-UI, Chakra UI<br>
+• Responsive Design - Mobile-first approach, Cross-browser compatibility<br>
+• Performance - Code splitting, Lazy loading, Bundle optimization<br>
+• Web Vitals - Core Web Vitals optimization, SEO best practices
 </details>
 
 <details>
-<summary><b>🛠️ Development Tools & Skills</b></summary>
+<summary><b>🛠️ Professional Toolkit & Competencies</b></summary>
 <br>
-• Version Control - Git, GitHub<br>
-• IDE - VS Code with productivity extensions<br>
-• Backend Integration - Firebase, RESTful APIs<br>
-• Design Tools - Figma, Adobe XD<br>
-• Testing - Jest, React Testing Library<br>
-• CI/CD - Basic deployment workflows
+• Version Control - Git, GitHub, GitLab<br>
+• Development Environment - VS Code, WebStorm<br>
+• API Integration - RESTful APIs, GraphQL, Firebase<br>
+• Design Collaboration - Figma, Adobe XD, Zeplin<br>
+• Testing & Quality - Jest, React Testing Library, Cypress<br>
+• CI/CD - GitHub Actions, Netlify, Vercel<br>
+• Project Management - Agile/Scrum, Jira, Trello
 </details>
 
 ###
 
-<h3 align="left">🚀 Tech Stack</h3>
+<h3 align="left">🚀 Technology Stack</h3>
 
 ###
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -82,6 +86,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </div>
 
 ###
@@ -93,7 +98,7 @@
 ###
 
 <div align="center">
-  <b>✨ Visitors Count ✨</b>
+  <b>👥 Profile Visitors</b>
   <br><br>
   <img src="https://profile-counter.glitch.me/faizul-gazi/count.svg?" />
 </div>
