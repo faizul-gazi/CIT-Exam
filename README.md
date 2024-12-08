@@ -1,83 +1,99 @@
-<h1 align="left">Hey, I'm Gazi Faizul Islam</h1>
+<h1 align="center">Hi, I'm Gazi Faizul Islam</h1>
 
 ###
 
-<div align="left">
+<div align="center">
+  <b>Front-End Developer | React.js Specialist</b>
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/gazi-faizul-islam/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="https://x.com/faizul_gazi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
   </a>
   <a href="https://www.instagram.com/ferdowsgazi.008/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
   <a href="https://www.facebook.com/md.ferdows.587" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
   </a>
 </div>
 
-###
-
-<p align="left">I am a passionate front-end web developer with 2+ years of experience, specializing in React.js, HTML5, CSS3, JavaScript, and modern CSS frameworks like Bootstrap and Tailwind CSS. My strongest skill is converting Figma, PSD, XD, and other design formats into pixel-perfect, responsive frontends. I enjoy creating clean, efficient, and scalable web interfaces that deliver seamless user experiences.<br><br>Currently, I am pursuing a Bachelor of Science in Computer Science and Engineering (CSE) at IUBAT, focusing on algorithms, software development, and AI-related technologies. My aim is to become a Full Stack Web Developer, and I am actively enhancing my backend development skills.</p>
-
-###
-
-<h3 align="left">📌 Key Skills:</h3>
-
-###
-
-<p align="left">Front-End Development (React.js, Bootstrap, Tailwind CSS)<br>Responsive Web Design & Pixel-Perfect Conversions<br>API Integration<br>Problem-Solving and Software Engineering Fundamentals<br><br>When I'm not coding, I love exploring innovative solutions for real-world problems and contributing to impactful projects. Feel free to check out my repositories showcasing projects, collaborations, and contributions. Let's build something amazing together!</p>
-
-###
-
-<h3 align="left">Languages and Tools:</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img align="right" height="200" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
+  <p>🚀 Front-end developer with 2+ years of expertise in creating responsive, pixel-perfect web interfaces using React.js and modern CSS frameworks. Skilled in transforming designs from Figma, PSD, and XD into seamless user experiences.</p>
+  <p>🎓 Currently pursuing B.Sc. in Computer Science & Engineering at IUBAT, with a focus on algorithms and AI technologies. Actively working towards becoming a Full Stack Developer.</p>
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/faizul-gazi/faizul-gazi/output/snake.svg" alt="Snake animation" />
+<h3 align="left">💻 Technical Skills</h3>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/faizul-gazi/count.svg?"  />
+<details>
+<summary>Frontend Development</summary>
+- React.js, JavaScript (ES6+)
+- HTML5, CSS3
+- Bootstrap, Tailwind CSS
+- Responsive Design
+- UI/UX Implementation
+</details>
+
+<details>
+<summary>Development Tools</summary>
+- Git & GitHub
+- VS Code
+- Firebase
+- RESTful APIs
+- Figma
+</details>
+
+###
+
+<h3 align="left">🛠️ Tech Stack</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizul-gazi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faizul-gazi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizul-gazi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="languages graph" />
+</div>
+
+###
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/faizul-gazi/count.svg?" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faizul-gazi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizul-gazi&theme=radical&hide_border=true" height="150" alt="streak graph" />
 </div>
 
 ###
