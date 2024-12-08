@@ -3,8 +3,21 @@
 ###
 
 <div align="center">
-  <b>Senior Front-End Developer | React.js Specialist | UI/UX Architect</b>
+  <b style="display: inline-block; animation: fadeInDown 1s ease-in-out;">Senior Front-End Developer | React.js Specialist | UI/UX Architect</b>
 </div>
+
+<style>
+@keyframes fadeInDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+</style>
 
 ###
 
@@ -101,13 +114,6 @@
   <b>👥 Profile Visitors</b>
   <br><br>
   <img src="https://profile-counter.glitch.me/faizul-gazi/count.svg?" />
-</div>
-
-###
-
-
-<div align="center">
-  <img src="https://github.com/faizul-gazi/faizul-gazi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ###
